@@ -18,3 +18,5 @@
  ## OUTPUT
 
  ![Image](https://github.com/user-attachments/assets/59838222-7150-4f84-b871-d41766249d14)
+
+ [task 4 DM.docx](https://github.com/user-attachments/files/18928220/task.4.DM.docx)
